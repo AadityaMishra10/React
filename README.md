@@ -1,3 +1,4 @@
+This is the link for the app i have hosted on netlify website : https://marvelous-piroshki-85bf31.netlify.app/
 This is a React component that creates a web application that fetches text data from a URL entered by the user, generates a frequency histogram of the most common words in the text, and displays the histogram in a bar chart using the recharts library. The user can also export the histogram data to a CSV file.
 
 Plugins installed in this code are:
